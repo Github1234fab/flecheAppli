@@ -36,7 +36,7 @@
         header {
                 box-shadow: 0px 0px 15px 4px rgb(0 0 0 / 10%);
                 padding: 10px;
-                background-color:rgb(152, 191, 232);
+                background-color:rgb(10, 45, 83);
         }
         .menu-container {
                 display: flex;
