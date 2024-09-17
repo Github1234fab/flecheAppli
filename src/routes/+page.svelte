@@ -6,7 +6,7 @@
     import { onMount } from "svelte";
     import { initMessaging, initAnalytics } from "$lib/firebase";
     import { requestNotificationPermission } from "../lib/firebase.js";
-//     import { sendNotification } from "../../static/sendNotification.js";
+
 
     onMount(async () => {
         // Initialiser Firebase Analytics et Messaging
